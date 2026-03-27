@@ -33,7 +33,7 @@ import matplotlib.pyplot as plt
 
 # Read the Image and convert to grayscale
 
-image=cv2.imread('Darsh.jpg')
+image=cv2.imread('yuga.jpg')
 gray_img=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 
 # Original image
